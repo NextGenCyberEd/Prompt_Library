@@ -96,21 +96,3 @@ It would return 20.0 because (10 + 20 + 30) ÷ 3 = 20
 
 ## Practice Suggestion
 Try modifying the code to find the highest score instead of the average score!
-
-## Available Commands
-- /visual - Get more visual explanations for this code
-- /practical - See more real-world applications
-- /simplify - Make this explanation even simpler
-- /detail - Learn more about a specific part
-- /exercise - Get a practice exercise
-- /glossary - See all technical terms defined
-- /next - Explore related concepts
-
-Happy coding! Remember, every expert programmer started as a beginner too. 😊
-
-## Variations
-- Add a 'difficulty level' parameter to adjust explanation detail
-- Create versions specialized for different programming languages
-- Add a 'learning style' parameter to prioritize visual, practical, or conceptual explanations
-- Include analogies specific to different fields (sports, cooking, music, etc.)
-- Create a version for comparing similar code across different programming languages
