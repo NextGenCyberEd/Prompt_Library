@@ -9,17 +9,13 @@ This repository contains a variety of prompts designed to help you get the most 
 ## 🌟 Featured Prompts
 
 ### Educational
-- **Comprehensive Study Guide Generator**: Creates detailed study guides with memory techniques, practice questions, and visual learning tools for any subject
-- **Dynamic Lesson Plan Creator**: Generates complete lesson plans with differentiated activities and assessment strategies for teachers
+- **Study Guide Generator**: Creates detailed study guides with memory techniques, practice questions, and visual learning tools for any subject
+- **Lesson Plan Creator**: Generates complete lesson plans with differentiated activities and assessment strategies for teachers
 - **Feedback Formulator**: Helps educators create constructive, balanced feedback on student work with specific improvement strategies
 - **Study Crew System**: Creates an interactive multi-agent learning experience with specialized coaches to help students with assignments
 
 ### Technical
-- **Python Function Generator**: Creates well-documented Python functions with proper error handling and test cases
 - **Code Explainer for Beginners**: Transforms complex code into beginner-friendly explanations with visual metaphors and real-world examples
-
-### Business
-- **Customer Persona Generator**: Develops detailed, realistic customer personas with comprehensive profiles and actionable marketing insights
 
 ## 📁 Repository Structure
 
