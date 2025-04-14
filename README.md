@@ -134,12 +134,6 @@ Please include example outputs and any relevant notes about model behavior.
 - Organize prompts in appropriate category folders
 - Include all sections listed in the Prompt Format
 
-## 📚 Resources
-
-- [Effective Prompting Guide](link-to-guide)
-- [LLM Comparison Chart](link-to-chart)
-- [Community Discord](link-to-discord)
-
 ## ⚖️ License
 
 This repository is available under the MIT License. You are free to use, modify, and distribute the prompts, though attribution is appreciated.
